@@ -30,3 +30,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/jenkins-essential-training-17420152
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2468076/2468076-1652724717815-16x9.jpg
+
+[![Build Status](http://ec2-13-51-57-153.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=ex2)](http://ec2-13-51-57-153.eu-north-1.compute.amazonaws.com/job/ex2/)
