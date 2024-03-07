@@ -1,4 +1,7 @@
 # Jenkins Essential Training
+
+[!http://ec2-13-51-57-153.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=ex2!|http://ec2-13-51-57-153.eu-north-1.compute.amazonaws.com/job/ex2/]
+
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
